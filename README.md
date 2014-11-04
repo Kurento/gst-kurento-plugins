@@ -2,8 +2,13 @@
 
 Copyright © 2013 Kurento. Licensed under [LGPL License].
 
-gst-kurento-plugins
+gst-kurento-plugins [obsolete]
 ==========
+
+**THIS MODULE IS OBSOLETE.**
+
+**GStreamer plugins can now be found in kms-core.**
+
 Gstreamer plugins for media server
 
 The gst-kurento-plugins project contains gstreamer plugins needed for
